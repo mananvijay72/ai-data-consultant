@@ -1,0 +1,25 @@
+# Central configuration for Insight Desk
+
+llm:
+  model: "gemini-2.5-flash"
+  embedding_model: "text-embedding-004"
+  temperature: 0.3
+
+rag:
+  chunk_size: 400          # words per chunk
+  chunk_overlap: 60
+  top_k: 4
+  domain_corpus_dir: "data/rag_corpus"
+  vectorstore_dir: "vectorstore/domain_corpus"
+
+memory:
+  clients_dir: "data/clients"
+  top_k: 4
+
+report:
+  templates_dir: "src/report/templates"
+  output_dir: "data/clients"
+
+domains:
+  - restaurant
+  - ecommerce

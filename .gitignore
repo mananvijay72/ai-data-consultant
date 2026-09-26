@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+data/clients/
+vectorstore/
+.venv/
+*.egg-info/
+.DS_Store
+venv/

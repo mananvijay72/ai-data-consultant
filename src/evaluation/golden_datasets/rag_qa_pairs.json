@@ -1,0 +1,21 @@
+{
+  "restaurant": [
+    {"question": "What is a healthy food cost percentage for casual dining?", "expected_source": "food_cost_benchmarks.md"},
+    {"question": "How many times should a table turn over in fine dining?", "expected_source": "table_turnover_norms.md"},
+    {"question": "Why is January usually a slow month for restaurants?", "expected_source": "seasonal_patterns.md"},
+    {"question": "What is prime cost and what threshold is a warning sign?", "expected_source": "labor_cost_guide.md"},
+    {"question": "What should I do about menu items that are unpopular and unprofitable?", "expected_source": "menu_engineering.md"},
+    {"question": "What does a spike in portion size complaints usually mean?", "expected_source": "customer_feedback_themes.md"},
+    {"question": "How do delivery platform commissions affect restaurant margin?", "expected_source": "online_delivery_impact.md"}
+  ],
+  "ecommerce": [
+    {"question": "What is a good LTV to CAC ratio?", "expected_source": "aov_cac_benchmarks.md"},
+    {"question": "What counts as a healthy repeat purchase rate for apparel?", "expected_source": "churn_and_retention.md"},
+    {"question": "What is a typical e-commerce conversion rate?", "expected_source": "conversion_rate_benchmarks.md"},
+    {"question": "Why do customers abandon their shopping carts?", "expected_source": "cart_abandonment.md"},
+    {"question": "What is a normal return rate for apparel?", "expected_source": "returns_and_refunds.md"},
+    {"question": "Why does e-commerce revenue spike in Q4?", "expected_source": "seasonal_ecommerce_patterns.md"},
+    {"question": "What does a spike in damaged-item reviews usually indicate?", "expected_source": "product_performance_review_themes.md"},
+    {"question": "Is heavy discounting bad for a business long term?", "expected_source": "pricing_and_discounting.md"}
+  ]
+}

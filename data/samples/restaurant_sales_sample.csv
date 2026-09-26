@@ -1,0 +1,1201 @@
+Date,Item,Quantity,Total,Cost,Table
+2024-11-23,Caesar Salad,1,11.27,3.29,T3
+2024-02-22,Chicken Curry,1,17.15,4.68,T2
+2024-04-21,Cheeseburger,3,39.4,12.63,T12
+2024-11-28,Chicken Curry,2,33.05,10.68,T13
+2024-01-04,Grilled Salmon,3,65.49,19.32,T4
+2024-06-21,Caesar Salad,1,10.87,3.29,T6
+2024-11-05,Pasta Carbonara,1,16.37,5.21,T15
+2024-07-12,Caesar Salad,3,32.32,10.55,T15
+2024-07-04,Chocolate Cake,1,9.18,2.52,T4
+2024-05-28,Caesar Salad,1,11.4,3.47,T8
+2024-11-21,Tomato Soup,1,7.9,2.28,T5
+2024-12-25,Caesar Salad,3,33.45,10.64,T4
+2024-03-24,Veggie Wrap,2,19.54,6.9,T12
+2024-10-12,Cheeseburger,3,38.31,12.99,T1
+2024-04-27,Margherita Pizza,2,27.72,7.65,T15
+2024-10-17,Tomato Soup,1,8.12,2.48,T15
+2024-11-25,Veggie Wrap,1,9.76,2.85,T9
+2024-10-02,Pasta Carbonara,3,48.41,16.98,T7
+2024-07-04,Cheeseburger,1,13.01,3.62,T1
+2024-02-26,Grilled Salmon,3,63.76,21.12,T10
+2024-02-02,Ribeye Steak,2,68.65,21.43,T5
+2024-10-10,Margherita Pizza,3,42.93,14.23,T9
+2024-05-16,Tomato Soup,1,7.83,2.23,T1
+2024-05-14,Chicken Curry,1,17.01,4.76,T11
+2024-06-01,Chicken Curry,3,49.46,15.02,T3
+2024-10-03,Chicken Curry,1,17.17,5.39,T2
+2024-07-04,Pasta Carbonara,1,15.29,5.34,T2
+2024-02-13,Veggie Wrap,1,10.48,3.33,T3
+2024-03-06,Veggie Wrap,3,29.0,9.21,T10
+2024-08-04,Cheeseburger,3,40.0,13.28,T12
+2024-06-08,Ribeye Steak,3,103.53,32.04,T9
+2024-08-19,Caesar Salad,1,10.7,3.21,T10
+2024-10-10,Cheeseburger,3,37.91,10.48,T11
+2024-01-31,Cheeseburger,1,13.53,4.7,T2
+2024-09-20,Cheeseburger,2,26.44,7.65,T3
+2024-10-19,Chocolate Cake,2,17.54,5.48,T7
+2024-04-07,Caesar Salad,1,11.17,3.37,T7
+2024-08-27,Margherita Pizza,3,42.64,13.99,T1
+2024-07-25,Tomato Soup,1,7.8,2.24,T8
+2024-03-12,Ribeye Steak,1,33.25,9.73,T15
+2024-02-08,Veggie Wrap,3,28.79,9.46,T9
+2024-01-08,Caesar Salad,1,10.63,3.33,T4
+2024-07-24,Margherita Pizza,1,13.83,4.96,T5
+2024-08-20,Pasta Carbonara,2,32.63,10.96,T13
+2024-10-11,Veggie Wrap,1,9.69,2.81,T1
+2024-10-23,Chicken Curry,1,17.42,4.79,T10
+2024-09-01,Chicken Curry,3,49.25,17.56,T2
+2024-04-05,Caesar Salad,3,31.57,10.97,T7
+2024-03-02,Chocolate Cake,1,9.07,2.48,T2
+2024-08-02,Chocolate Cake,3,27.06,9.58,T4
+2024-12-08,Tomato Soup,1,7.81,2.2,T11
+2024-06-02,Veggie Wrap,2,20.86,7.39,T1
+2024-08-22,Chocolate Cake,3,28.34,7.84,T4
+2024-09-16,Pasta Carbonara,1,16.69,5.83,T15
+2024-05-05,Tomato Soup,2,15.45,5.33,T12
+2024-06-03,Chocolate Cake,3,27.08,8.94,T9
+2024-06-02,Caesar Salad,1,10.74,3.76,T12
+2024-10-10,Grilled Salmon,2,43.04,12.44,T6
+2024-04-14,Pasta Carbonara,3,47.94,16.85,T14
+2024-01-27,Caesar Salad,3,32.75,9.66,T1
+2024-06-19,Grilled Salmon,3,69.17,19.68,T8
+2024-10-09,Ribeye Steak,3,97.0,26.85,T15
+2024-12-19,Grilled Salmon,3,62.94,19.09,T9
+2024-03-16,Ribeye Steak,1,32.44,9.82,T15
+2024-01-21,Tomato Soup,1,8.15,2.69,T6
+2024-10-13,Ribeye Steak,3,104.54,36.94,T4
+2024-03-24,Grilled Salmon,2,41.91,14.09,T6
+2024-07-29,Cheeseburger,2,25.11,8.36,T7
+2024-01-20,Veggie Wrap,1,9.7,3.42,T6
+2024-06-05,Cheeseburger,1,12.38,3.56,T6
+2024-05-22,Caesar Salad,2,21.67,6.84,T11
+2024-10-01,Tomato Soup,1,7.69,2.75,T3
+2024-10-24,Pasta Carbonara,1,15.37,4.75,T12
+2024-06-09,Ribeye Steak,3,106.94,29.99,T15
+2024-10-22,Cheeseburger,2,24.82,7.68,T9
+2024-10-02,Cheeseburger,2,25.82,9.18,T15
+2024-06-18,Chocolate Cake,2,18.29,5.14,T15
+2024-06-02,Chicken Curry,2,34.57,10.35,T12
+2024-05-31,Chicken Curry,1,16.48,5.44,T7
+2024-12-12,Grilled Salmon,3,66.46,20.37,T14
+2024-01-01,Pasta Carbonara,2,31.07,10.59,T10
+2024-12-01,Tomato Soup,2,15.91,5.26,T9
+2024-08-30,Grilled Salmon,3,63.26,20.01,T11
+2024-11-13,Tomato Soup,1,8.25,2.79,T11
+2024-06-07,Cheeseburger,1,12.54,3.44,T8
+2024-11-08,Caesar Salad,2,21.81,7.12,T4
+2024-12-22,Ribeye Steak,2,67.32,19.07,T12
+2024-01-03,Caesar Salad,2,21.38,7.32,T12
+2024-09-22,Veggie Wrap,1,10.06,3.55,T2
+2024-08-21,Grilled Salmon,2,44.74,16.06,T10
+2024-06-11,Veggie Wrap,3,30.95,10.84,T7
+2024-10-07,Veggie Wrap,1,10.24,3.2,T5
+2024-05-06,Pasta Carbonara,3,47.93,13.97,T8
+2024-02-09,Pasta Carbonara,1,15.63,4.67,T9
+2024-02-11,Grilled Salmon,1,21.41,7.12,T12
+2024-04-19,Caesar Salad,2,21.8,6.95,T7
+2024-02-01,Cheeseburger,2,25.71,8.72,T12
+2024-01-11,Chocolate Cake,2,17.96,6.37,T5
+2024-07-18,Ribeye Steak,3,104.52,33.36,T10
+2024-04-22,Veggie Wrap,1,9.77,3.06,T7
+2024-06-21,Ribeye Steak,3,98.58,30.76,T3
+2024-11-14,Chicken Curry,1,17.69,5.72,T11
+2024-01-14,Caesar Salad,3,32.76,11.4,T3
+2024-01-26,Pasta Carbonara,2,31.45,9.78,T6
+2024-07-13,Pasta Carbonara,2,31.21,8.66,T1
+2024-10-03,Margherita Pizza,2,27.23,7.52,T11
+2024-01-21,Margherita Pizza,1,13.58,3.69,T3
+2024-05-02,Grilled Salmon,2,44.75,14.35,T4
+2024-08-26,Pasta Carbonara,2,30.94,10.04,T12
+2024-02-28,Grilled Salmon,2,42.28,11.51,T5
+2024-10-21,Ribeye Steak,2,71.0,20.44,T10
+2024-12-19,Cheeseburger,1,13.26,3.94,T11
+2024-11-03,Caesar Salad,3,33.93,10.22,T7
+2024-12-04,Tomato Soup,1,8.0,2.41,T14
+2024-08-03,Veggie Wrap,1,9.93,3.0,T15
+2024-08-23,Grilled Salmon,2,42.58,13.5,T11
+2024-05-18,Chocolate Cake,3,27.74,8.65,T14
+2024-10-30,Pasta Carbonara,2,33.13,11.42,T2
+2024-05-22,Veggie Wrap,1,10.25,3.29,T11
+2024-07-13,Tomato Soup,1,8.0,2.39,T8
+2024-04-18,Tomato Soup,2,15.74,5.5,T12
+2024-05-21,Chicken Curry,1,17.03,4.89,T4
+2024-07-27,Veggie Wrap,3,30.77,10.22,T11
+2024-12-30,Veggie Wrap,2,20.59,5.73,T4
+2024-07-26,Cheeseburger,2,26.43,8.01,T9
+2024-09-28,Tomato Soup,2,16.79,5.36,T6
+2024-12-25,Veggie Wrap,2,19.61,5.7,T12
+2024-04-08,Tomato Soup,1,8.19,2.91,T12
+2024-04-04,Cheeseburger,1,13.31,3.92,T10
+2024-09-25,Chocolate Cake,2,18.86,6.51,T5
+2024-04-26,Tomato Soup,1,7.84,2.62,T3
+2024-05-20,Margherita Pizza,1,14.07,4.68,T3
+2024-11-22,Veggie Wrap,1,10.37,3.34,T8
+2024-09-02,Veggie Wrap,2,19.37,5.32,T14
+2024-09-01,Caesar Salad,1,10.89,3.01,T11
+2024-12-17,Margherita Pizza,1,13.51,4.33,T5
+2024-02-13,Cheeseburger,1,13.08,4.02,T10
+2024-11-12,Cheeseburger,3,38.53,13.55,T5
+2024-10-28,Ribeye Steak,2,68.47,18.86,T12
+2024-02-20,Cheeseburger,3,37.87,12.48,T3
+2024-05-02,Grilled Salmon,3,63.2,17.08,T8
+2024-12-18,Chocolate Cake,2,17.62,5.12,T12
+2024-05-24,Veggie Wrap,1,10.19,3.6,T13
+2024-11-16,Chocolate Cake,3,27.82,8.01,T2
+2024-10-05,Cheeseburger,3,37.63,11.06,T3
+2024-02-06,Margherita Pizza,1,14.41,4.66,T14
+2024-10-18,Pasta Carbonara,2,30.8,10.23,T12
+2024-07-25,Pasta Carbonara,3,48.19,14.91,T10
+2024-01-21,Ribeye Steak,3,100.19,29.31,T2
+2024-04-27,Chocolate Cake,3,28.22,10.16,T11
+2024-05-17,Chocolate Cake,1,9.24,2.64,T9
+2024-11-29,Veggie Wrap,2,19.36,6.25,T11
+2024-09-08,Caesar Salad,2,21.67,6.5,T11
+2024-02-23,Grilled Salmon,2,43.61,13.72,T11
+2024-07-24,Chicken Curry,1,16.92,5.05,T6
+2024-02-29,Ribeye Steak,3,105.31,28.44,T14
+2024-10-04,Veggie Wrap,2,19.11,6.05,T10
+2024-09-12,Veggie Wrap,1,9.7,3.1,T15
+2024-05-27,Veggie Wrap,3,29.95,8.16,T11
+2024-11-07,Cheeseburger,3,37.67,12.04,T9
+2024-07-27,Caesar Salad,1,11.54,4.06,T8
+2024-03-01,Grilled Salmon,2,45.9,13.6,T12
+2024-05-19,Ribeye Steak,2,71.27,20.81,T9
+2024-03-15,Ribeye Steak,1,35.43,11.19,T15
+2024-03-10,Caesar Salad,2,22.6,7.84,T6
+2024-09-16,Pasta Carbonara,1,15.65,4.65,T10
+2024-10-23,Veggie Wrap,1,9.95,3.12,T6
+2024-10-09,Chicken Curry,2,33.85,10.12,T4
+2024-12-23,Cheeseburger,3,38.54,13.37,T7
+2024-01-23,Tomato Soup,3,23.94,8.43,T7
+2024-07-16,Grilled Salmon,2,46.05,12.96,T10
+2024-06-18,Caesar Salad,2,21.12,7.43,T1
+2024-03-14,Ribeye Steak,3,106.79,29.55,T13
+2024-05-15,Tomato Soup,3,24.46,8.03,T14
+2024-06-17,Chicken Curry,2,35.54,11.6,T15
+2024-09-06,Chicken Curry,1,17.2,5.01,T11
+2024-05-27,Cheeseburger,3,37.4,13.39,T13
+2024-11-20,Caesar Salad,2,21.27,6.32,T1
+2024-01-24,Tomato Soup,1,7.83,2.38,T3
+2024-05-05,Chicken Curry,2,34.22,11.68,T3
+2024-03-30,Caesar Salad,3,34.22,11.15,T4
+2024-09-11,Chocolate Cake,1,8.76,2.87,T8
+2024-05-10,Margherita Pizza,2,29.12,9.64,T3
+2024-02-07,Veggie Wrap,2,20.98,6.23,T7
+2024-12-19,Pasta Carbonara,2,33.1,9.53,T7
+2024-09-04,Caesar Salad,1,10.87,3.29,T5
+2024-12-24,Pasta Carbonara,1,16.76,5.52,T5
+2024-01-05,Chocolate Cake,3,27.75,9.92,T15
+2024-11-06,Veggie Wrap,2,20.55,5.97,T13
+2024-06-29,Cheeseburger,3,37.79,11.06,T13
+2024-12-03,Grilled Salmon,3,63.34,20.68,T1
+2024-06-07,Veggie Wrap,1,10.08,3.39,T2
+2024-05-31,Tomato Soup,3,23.8,6.86,T13
+2024-10-03,Tomato Soup,3,24.0,7.07,T3
+2024-05-11,Veggie Wrap,2,20.49,6.16,T2
+2024-08-27,Caesar Salad,1,11.28,3.27,T11
+2024-12-11,Ribeye Steak,3,100.63,34.33,T1
+2024-05-15,Chicken Curry,1,16.92,5.59,T11
+2024-05-14,Chocolate Cake,2,18.58,6.59,T2
+2024-12-11,Cheeseburger,2,24.77,8.66,T9
+2024-06-16,Chocolate Cake,1,9.13,2.99,T8
+2024-12-24,Pasta Carbonara,3,47.56,13.44,T1
+2024-06-04,Veggie Wrap,1,9.6,3.36,T3
+2024-07-17,Veggie Wrap,2,20.34,6.85,T9
+2024-08-02,Chocolate Cake,3,27.61,9.65,T11
+2024-02-20,Veggie Wrap,3,29.72,10.57,T1
+2024-12-19,Tomato Soup,1,7.95,2.83,T14
+2024-07-04,Caesar Salad,3,32.56,11.43,T11
+2024-07-02,Margherita Pizza,2,27.37,9.77,T14
+2024-08-20,Caesar Salad,3,32.05,10.5,T1
+2024-01-26,Tomato Soup,1,8.39,2.86,T4
+2024-02-05,Chicken Curry,1,17.15,5.89,T4
+2024-06-17,Grilled Salmon,3,62.72,21.78,T3
+2024-03-07,Chicken Curry,2,35.01,9.8,T14
+2024-01-14,Grilled Salmon,1,21.69,7.4,T10
+2024-06-14,Margherita Pizza,1,13.67,3.85,T7
+2024-09-26,Caesar Salad,3,31.56,9.79,T6
+2024-09-19,Chocolate Cake,1,8.96,2.6,T10
+2024-01-23,Chicken Curry,2,33.86,12.08,T1
+2024-09-02,Ribeye Steak,2,69.27,21.76,T15
+2024-08-15,Caesar Salad,1,10.8,3.06,T3
+2024-05-20,Chocolate Cake,3,27.23,9.1,T7
+2024-11-01,Chicken Curry,2,33.84,10.98,T2
+2024-12-25,Caesar Salad,3,33.5,11.36,T12
+2024-04-20,Ribeye Steak,2,70.64,21.7,T14
+2024-08-20,Ribeye Steak,2,69.56,20.74,T6
+2024-12-06,Pasta Carbonara,2,33.45,11.1,T8
+2024-02-04,Caesar Salad,1,10.55,2.94,T12
+2024-07-09,Grilled Salmon,3,63.1,22.47,T9
+2024-06-17,Caesar Salad,2,21.68,7.15,T13
+2024-08-04,Margherita Pizza,2,28.28,8.53,T10
+2024-09-16,Cheeseburger,1,13.2,3.83,T2
+2024-06-28,Chicken Curry,2,32.69,9.65,T4
+2024-08-07,Chicken Curry,3,51.58,16.91,T1
+2024-11-07,Pasta Carbonara,1,15.49,5.16,T5
+2024-06-22,Tomato Soup,1,7.75,2.19,T11
+2024-07-24,Caesar Salad,1,11.27,4.03,T2
+2024-09-28,Cheeseburger,2,25.79,7.75,T6
+2024-06-08,Tomato Soup,3,24.23,8.47,T3
+2024-03-21,Chocolate Cake,1,9.16,2.7,T11
+2024-08-05,Veggie Wrap,3,29.83,8.79,T13
+2024-09-19,Caesar Salad,2,21.85,6.46,T11
+2024-10-30,Veggie Wrap,3,30.5,8.36,T7
+2024-11-02,Margherita Pizza,1,13.59,4.83,T13
+2024-03-11,Pasta Carbonara,2,31.45,8.51,T12
+2024-08-08,Grilled Salmon,1,21.74,7.25,T9
+2024-10-13,Tomato Soup,1,7.92,2.67,T7
+2024-01-10,Veggie Wrap,1,10.36,3.33,T10
+2024-07-26,Ribeye Steak,2,65.38,17.78,T6
+2024-03-28,Chocolate Cake,2,18.6,6.56,T2
+2024-08-11,Caesar Salad,1,10.93,3.35,T2
+2024-07-21,Pasta Carbonara,3,47.23,14.17,T3
+2024-02-09,Chicken Curry,3,49.03,15.49,T15
+2024-06-27,Tomato Soup,3,25.1,8.24,T3
+2024-04-30,Caesar Salad,1,10.73,3.06,T3
+2024-12-01,Caesar Salad,1,11.5,3.75,T8
+2024-10-15,Chocolate Cake,2,18.33,6.4,T11
+2024-11-21,Chocolate Cake,2,18.66,6.09,T3
+2024-08-13,Caesar Salad,2,21.87,6.5,T5
+2024-10-29,Margherita Pizza,2,28.02,8.35,T8
+2024-01-20,Margherita Pizza,2,28.93,8.01,T14
+2024-02-16,Chocolate Cake,3,27.02,8.42,T9
+2024-01-22,Veggie Wrap,3,30.46,9.11,T8
+2024-09-13,Grilled Salmon,1,21.89,7.51,T14
+2024-06-24,Caesar Salad,3,33.48,9.16,T12
+2024-08-12,Veggie Wrap,3,30.07,8.55,T6
+2024-05-24,Ribeye Steak,2,69.87,23.13,T1
+2024-11-19,Tomato Soup,1,7.86,2.52,T7
+2024-05-25,Pasta Carbonara,3,49.69,17.73,T10
+2024-03-17,Tomato Soup,1,8.07,2.28,T6
+2024-06-07,Ribeye Steak,1,34.32,12.16,T5
+2024-10-13,Ribeye Steak,3,104.97,36.02,T11
+2024-12-25,Chicken Curry,1,17.25,5.31,T6
+2024-01-10,Tomato Soup,2,15.49,4.48,T13
+2024-09-05,Cheeseburger,1,13.65,3.88,T5
+2024-02-21,Chicken Curry,3,52.71,18.42,T1
+2024-12-04,Tomato Soup,3,23.11,7.02,T3
+2024-04-02,Chocolate Cake,1,9.2,2.52,T6
+2024-12-12,Cheeseburger,2,26.29,8.88,T13
+2024-08-17,Cheeseburger,3,37.98,13.56,T13
+2024-08-28,Cheeseburger,2,26.46,8.5,T8
+2024-08-24,Pasta Carbonara,2,32.01,9.85,T3
+2024-04-12,Chocolate Cake,1,9.34,2.57,T8
+2024-07-09,Chicken Curry,1,17.36,5.49,T2
+2024-05-25,Caesar Salad,1,10.75,3.78,T3
+2024-08-11,Caesar Salad,1,11.35,3.97,T15
+2024-01-14,Ribeye Steak,1,33.65,10.22,T7
+2024-02-11,Tomato Soup,1,7.62,2.7,T14
+2024-11-28,Tomato Soup,1,7.71,2.28,T14
+2024-08-29,Grilled Salmon,3,65.8,21.41,T15
+2024-02-10,Margherita Pizza,2,27.2,7.71,T12
+2024-11-07,Chicken Curry,2,32.68,9.67,T5
+2024-03-03,Margherita Pizza,1,13.89,4.74,T8
+2024-02-02,Caesar Salad,2,22.21,6.03,T9
+2024-10-21,Cheeseburger,3,37.61,11.61,T10
+2024-06-29,Cheeseburger,3,38.67,12.75,T2
+2024-09-25,Tomato Soup,1,8.36,2.67,T13
+2024-09-16,Chicken Curry,1,16.81,5.25,T11
+2024-07-17,Tomato Soup,2,16.4,4.96,T2
+2024-06-25,Cheeseburger,3,39.61,11.06,T10
+2024-06-19,Grilled Salmon,1,21.68,6.51,T11
+2024-03-30,Veggie Wrap,3,29.94,8.57,T3
+2024-02-02,Veggie Wrap,1,9.79,2.68,T4
+2024-01-22,Tomato Soup,2,16.02,5.75,T9
+2024-08-30,Pasta Carbonara,1,16.41,4.71,T6
+2024-01-25,Tomato Soup,2,15.4,4.67,T15
+2024-07-23,Veggie Wrap,2,19.68,5.64,T12
+2024-09-11,Tomato Soup,3,23.44,6.5,T7
+2024-02-10,Ribeye Steak,3,107.05,30.64,T5
+2024-06-13,Caesar Salad,1,10.81,3.21,T8
+2024-11-04,Ribeye Steak,1,34.65,10.45,T1
+2024-06-29,Chocolate Cake,2,17.59,6.3,T1
+2024-02-08,Ribeye Steak,2,68.09,22.98,T3
+2024-01-16,Grilled Salmon,3,67.18,20.79,T3
+2024-02-04,Cheeseburger,3,38.48,11.72,T10
+2024-01-17,Chocolate Cake,1,9.16,3.26,T6
+2024-08-15,Caesar Salad,3,31.8,9.64,T6
+2024-11-28,Pasta Carbonara,1,16.74,4.56,T3
+2024-09-12,Chicken Curry,2,35.41,9.94,T13
+2024-05-13,Veggie Wrap,1,10.5,3.1,T15
+2024-09-08,Cheeseburger,1,12.53,3.47,T3
+2024-08-15,Caesar Salad,3,34.54,12.39,T11
+2024-06-26,Caesar Salad,3,33.14,11.61,T14
+2024-03-21,Grilled Salmon,2,44.04,12.37,T4
+2024-03-12,Cheeseburger,2,24.77,7.92,T6
+2024-08-27,Chicken Curry,1,17.19,4.77,T5
+2024-07-22,Veggie Wrap,3,29.73,9.12,T10
+2024-02-07,Grilled Salmon,2,44.63,13.86,T11
+2024-09-21,Tomato Soup,1,8.3,2.82,T11
+2024-10-27,Grilled Salmon,1,21.85,7.69,T1
+2024-03-04,Chicken Curry,1,16.67,4.74,T15
+2024-12-29,Cheeseburger,2,27.16,8.6,T5
+2024-02-10,Pasta Carbonara,1,16.22,5.18,T3
+2024-11-16,Pasta Carbonara,3,48.16,15.18,T3
+2024-10-30,Chocolate Cake,1,8.7,2.84,T15
+2024-11-05,Tomato Soup,3,22.9,7.96,T2
+2024-01-24,Chocolate Cake,2,18.27,6.19,T7
+2024-11-12,Margherita Pizza,2,29.09,9.28,T11
+2024-06-03,Veggie Wrap,1,10.3,3.42,T5
+2024-08-20,Caesar Salad,3,31.55,9.77,T8
+2024-08-25,Cheeseburger,2,26.28,7.83,T12
+2024-06-12,Tomato Soup,2,15.41,4.67,T9
+2024-02-24,Tomato Soup,1,7.97,2.34,T4
+2024-03-13,Caesar Salad,1,10.77,3.28,T10
+2024-08-02,Cheeseburger,1,13.41,4.75,T12
+2024-06-09,Cheeseburger,1,13.0,4.11,T8
+2024-06-06,Veggie Wrap,1,9.59,2.93,T8
+2024-05-03,Cheeseburger,3,38.43,10.55,T8
+2024-11-01,Veggie Wrap,2,20.07,6.95,T7
+2024-03-09,Pasta Carbonara,3,47.36,14.51,T1
+2024-07-24,Margherita Pizza,3,42.26,12.79,T5
+2024-02-07,Ribeye Steak,3,101.49,32.42,T14
+2024-11-15,Chocolate Cake,1,8.67,2.42,T6
+2024-06-22,Chicken Curry,2,34.87,10.04,T9
+2024-07-24,Chicken Curry,1,16.23,4.58,T6
+2024-08-30,Chicken Curry,2,32.81,11.5,T3
+2024-06-16,Chocolate Cake,2,17.39,6.25,T12
+2024-06-02,Chocolate Cake,2,18.01,5.69,T8
+2024-12-28,Chocolate Cake,2,17.95,4.87,T6
+2024-12-10,Caesar Salad,2,22.18,7.58,T12
+2024-12-18,Margherita Pizza,3,41.89,14.96,T13
+2024-10-23,Chocolate Cake,1,9.2,2.97,T3
+2024-09-25,Chocolate Cake,2,17.37,5.75,T1
+2024-10-20,Caesar Salad,1,10.47,3.12,T3
+2024-07-30,Cheeseburger,2,26.0,8.45,T8
+2024-02-01,Grilled Salmon,3,64.07,19.17,T11
+2024-09-01,Chicken Curry,2,33.37,9.53,T15
+2024-09-29,Tomato Soup,3,23.65,8.03,T12
+2024-12-14,Pasta Carbonara,3,47.92,17.07,T5
+2024-10-12,Pasta Carbonara,1,16.71,5.99,T13
+2024-05-27,Cheeseburger,3,39.8,11.88,T6
+2024-10-13,Pasta Carbonara,2,30.79,10.19,T7
+2024-07-21,Tomato Soup,1,7.83,2.32,T12
+2024-02-10,Tomato Soup,2,16.25,5.48,T4
+2024-04-13,Chicken Curry,2,35.47,11.8,T3
+2024-02-25,Chocolate Cake,3,27.23,7.95,T11
+2024-09-28,Cheeseburger,3,37.96,10.59,T6
+2024-08-29,Caesar Salad,3,33.89,9.17,T9
+2024-03-21,Ribeye Steak,3,106.44,37.15,T8
+2024-11-29,Cheeseburger,2,25.54,8.38,T15
+2024-02-15,Chocolate Cake,1,9.03,3.03,T15
+2024-01-20,Grilled Salmon,2,45.68,13.06,T15
+2024-01-19,Ribeye Steak,2,65.87,22.23,T14
+2024-05-28,Margherita Pizza,1,13.72,4.45,T15
+2024-06-20,Pasta Carbonara,2,33.57,10.71,T8
+2024-03-09,Chicken Curry,2,33.23,11.39,T6
+2024-03-24,Veggie Wrap,3,29.27,8.39,T12
+2024-06-21,Pasta Carbonara,3,48.84,14.04,T10
+2024-11-23,Ribeye Steak,2,68.1,18.92,T11
+2024-02-18,Grilled Salmon,1,21.95,7.78,T1
+2024-05-13,Ribeye Steak,1,33.82,9.94,T6
+2024-06-03,Chocolate Cake,3,27.2,7.98,T6
+2024-12-20,Cheeseburger,1,13.22,4.12,T3
+2024-07-26,Chicken Curry,3,52.38,17.4,T11
+2024-05-31,Tomato Soup,3,23.33,8.31,T8
+2024-03-19,Veggie Wrap,3,31.47,9.56,T12
+2024-10-08,Veggie Wrap,3,30.91,10.64,T13
+2024-05-06,Chocolate Cake,1,9.02,2.86,T6
+2024-02-09,Chocolate Cake,1,8.61,2.75,T9
+2024-04-13,Chocolate Cake,3,26.05,7.8,T9
+2024-08-14,Caesar Salad,3,32.03,10.33,T2
+2024-09-18,Veggie Wrap,1,9.95,3.15,T8
+2024-10-15,Margherita Pizza,3,41.84,14.34,T12
+2024-01-12,Ribeye Steak,2,70.15,23.65,T10
+2024-02-07,Margherita Pizza,2,27.56,7.6,T1
+2024-02-05,Veggie Wrap,1,9.79,2.8,T3
+2024-11-24,Ribeye Steak,2,71.35,21.72,T14
+2024-07-12,Ribeye Steak,1,34.62,11.41,T9
+2024-03-09,Tomato Soup,1,7.74,2.46,T9
+2024-03-06,Cheeseburger,1,13.33,4.77,T8
+2024-12-10,Chicken Curry,2,34.11,11.74,T4
+2024-08-23,Tomato Soup,1,7.82,2.77,T12
+2024-02-27,Margherita Pizza,3,41.66,14.12,T15
+2024-01-09,Cheeseburger,1,12.44,4.02,T8
+2024-11-02,Margherita Pizza,1,14.34,4.39,T4
+2024-10-03,Cheeseburger,1,12.53,4.5,T4
+2024-10-21,Tomato Soup,3,24.24,8.01,T6
+2024-05-01,Pasta Carbonara,1,16.78,5.32,T7
+2024-06-02,Pasta Carbonara,1,16.09,5.2,T12
+2024-03-30,Ribeye Steak,3,101.96,36.45,T11
+2024-12-09,Ribeye Steak,3,100.15,30.79,T3
+2024-06-02,Ribeye Steak,1,34.87,10.9,T14
+2024-04-25,Pasta Carbonara,3,46.29,14.43,T1
+2024-10-14,Ribeye Steak,2,68.39,19.29,T4
+2024-05-10,Cheeseburger,2,26.38,9.31,T14
+2024-07-08,Caesar Salad,3,33.74,9.69,T5
+2024-07-12,Chocolate Cake,3,25.76,7.12,T13
+2024-10-27,Chicken Curry,1,16.96,5.91,T6
+2024-06-04,Margherita Pizza,1,14.61,5.21,T2
+2024-09-02,Cheeseburger,3,39.41,11.37,T15
+2024-05-02,Chicken Curry,2,34.94,10.63,T9
+2024-11-28,Tomato Soup,2,15.62,4.94,T8
+2024-08-26,Caesar Salad,3,32.9,11.37,T15
+2024-04-14,Tomato Soup,2,15.86,5.09,T4
+2024-03-15,Margherita Pizza,2,28.15,9.08,T12
+2024-08-01,Pasta Carbonara,1,15.51,4.51,T10
+2024-05-05,Veggie Wrap,3,30.46,10.1,T5
+2024-09-07,Veggie Wrap,2,19.34,6.61,T3
+2024-03-12,Chicken Curry,2,32.93,11.53,T11
+2024-01-31,Chicken Curry,1,17.58,4.86,T14
+2024-12-08,Margherita Pizza,1,13.88,4.8,T4
+2024-02-04,Grilled Salmon,1,21.38,6.65,T1
+2024-11-12,Chocolate Cake,2,18.29,4.96,T9
+2024-10-09,Ribeye Steak,1,32.36,10.84,T9
+2024-05-26,Margherita Pizza,3,43.32,14.32,T13
+2024-04-01,Caesar Salad,1,11.03,3.22,T10
+2024-09-26,Pasta Carbonara,2,31.26,9.56,T6
+2024-07-26,Veggie Wrap,3,29.23,9.73,T5
+2024-12-16,Caesar Salad,3,34.62,11.37,T1
+2024-02-17,Ribeye Steak,2,67.16,21.01,T11
+2024-01-05,Grilled Salmon,1,22.0,6.8,T13
+2024-06-18,Chocolate Cake,1,9.36,3.3,T4
+2024-04-18,Chocolate Cake,2,17.59,6.21,T11
+2024-05-23,Chicken Curry,3,51.81,14.83,T14
+2024-06-10,Margherita Pizza,1,14.12,4.77,T12
+2024-07-22,Caesar Salad,2,21.26,6.2,T14
+2024-07-18,Chicken Curry,2,33.61,11.31,T13
+2024-12-18,Caesar Salad,3,33.81,10.18,T2
+2024-08-11,Cheeseburger,1,12.79,4.34,T10
+2024-07-22,Tomato Soup,1,8.11,2.76,T8
+2024-09-08,Cheeseburger,2,26.14,7.94,T3
+2024-12-14,Chocolate Cake,3,26.68,9.06,T5
+2024-05-06,Caesar Salad,1,10.74,3.27,T13
+2024-11-20,Grilled Salmon,3,65.27,19.74,T2
+2024-01-03,Pasta Carbonara,2,31.55,9.28,T3
+2024-02-14,Grilled Salmon,2,43.77,14.0,T7
+2024-02-22,Margherita Pizza,1,13.8,3.84,T10
+2024-06-15,Ribeye Steak,1,33.29,10.15,T2
+2024-10-13,Cheeseburger,3,39.08,12.96,T3
+2024-03-12,Pasta Carbonara,2,31.26,8.85,T3
+2024-08-10,Pasta Carbonara,2,31.36,10.68,T6
+2024-05-08,Cheeseburger,3,39.49,12.77,T4
+2024-08-22,Caesar Salad,1,10.79,3.83,T6
+2024-11-13,Ribeye Steak,2,67.59,20.87,T14
+2024-11-29,Chocolate Cake,1,8.82,2.86,T12
+2024-04-12,Veggie Wrap,2,19.36,5.92,T6
+2024-05-29,Veggie Wrap,3,30.85,9.23,T5
+2024-07-20,Tomato Soup,1,8.35,2.4,T9
+2024-04-02,Chicken Curry,1,17.77,5.54,T12
+2024-04-17,Veggie Wrap,2,20.66,5.71,T14
+2024-07-28,Veggie Wrap,1,10.13,2.96,T11
+2024-03-19,Ribeye Steak,2,65.1,23.38,T8
+2024-10-25,Ribeye Steak,3,102.07,36.01,T12
+2024-08-02,Chicken Curry,1,17.49,5.29,T15
+2024-10-01,Chocolate Cake,3,28.12,7.87,T4
+2024-12-02,Tomato Soup,1,8.12,2.22,T11
+2024-12-12,Ribeye Steak,2,71.17,21.97,T1
+2024-02-20,Pasta Carbonara,1,16.02,5.07,T10
+2024-12-18,Chocolate Cake,1,8.95,2.73,T13
+2024-12-13,Chocolate Cake,3,27.0,8.13,T1
+2024-09-04,Caesar Salad,2,21.82,7.78,T2
+2024-03-13,Tomato Soup,2,15.75,5.36,T9
+2024-09-04,Tomato Soup,2,15.36,5.15,T8
+2024-06-12,Caesar Salad,2,21.0,7.01,T1
+2024-06-24,Caesar Salad,3,33.99,12.02,T12
+2024-05-04,Chicken Curry,1,17.09,5.12,T7
+2024-08-24,Cheeseburger,2,26.34,7.55,T11
+2024-08-09,Ribeye Steak,1,34.81,12.17,T8
+2024-10-30,Ribeye Steak,2,64.63,18.7,T5
+2024-12-26,Caesar Salad,3,31.69,11.04,T3
+2024-07-06,Tomato Soup,1,7.97,2.34,T14
+2024-09-07,Chicken Curry,3,50.05,15.26,T7
+2024-10-27,Caesar Salad,2,21.67,6.74,T3
+2024-12-10,Pasta Carbonara,3,48.43,16.01,T6
+2024-03-01,Cheeseburger,2,25.0,7.59,T3
+2024-09-18,Ribeye Steak,2,68.66,22.09,T7
+2024-04-05,Veggie Wrap,3,30.11,10.62,T15
+2024-03-29,Chicken Curry,1,16.98,4.8,T6
+2024-08-18,Chocolate Cake,1,9.33,3.32,T8
+2024-03-10,Cheeseburger,2,27.21,8.58,T8
+2024-07-28,Veggie Wrap,2,20.42,6.33,T3
+2024-02-12,Chocolate Cake,1,9.27,2.69,T1
+2024-05-20,Cheeseburger,3,38.18,12.99,T10
+2024-09-10,Chicken Curry,3,49.03,13.74,T13
+2024-10-05,Tomato Soup,3,24.77,6.78,T12
+2024-08-13,Chicken Curry,1,17.83,4.98,T14
+2024-11-30,Cheeseburger,2,26.97,7.36,T5
+2024-06-27,Caesar Salad,2,22.8,6.4,T13
+2024-05-01,Cheeseburger,3,39.34,11.86,T12
+2024-11-08,Ribeye Steak,1,34.39,11.71,T14
+2024-04-15,Margherita Pizza,3,41.37,12.22,T9
+2024-03-27,Tomato Soup,3,23.5,7.56,T14
+2024-09-20,Caesar Salad,1,11.51,3.92,T15
+2024-01-31,Pasta Carbonara,3,46.21,16.08,T4
+2024-03-15,Tomato Soup,1,8.21,2.72,T8
+2024-03-13,Chocolate Cake,3,26.38,8.11,T8
+2024-02-08,Caesar Salad,2,22.03,6.5,T15
+2024-07-07,Veggie Wrap,2,19.65,5.31,T13
+2024-02-17,Veggie Wrap,3,30.49,9.22,T2
+2024-09-30,Ribeye Steak,1,35.59,12.25,T8
+2024-05-17,Tomato Soup,2,15.74,5.07,T10
+2024-09-05,Tomato Soup,3,24.63,6.75,T11
+2024-08-23,Margherita Pizza,1,14.6,4.15,T8
+2024-01-01,Ribeye Steak,1,35.69,12.56,T15
+2024-11-28,Pasta Carbonara,1,16.6,5.79,T2
+2024-12-01,Tomato Soup,2,15.33,5.06,T11
+2024-03-25,Margherita Pizza,2,28.35,9.51,T13
+2024-04-29,Ribeye Steak,3,97.83,27.25,T4
+2024-09-01,Caesar Salad,1,11.1,3.52,T8
+2024-01-05,Margherita Pizza,3,41.34,11.61,T14
+2024-08-04,Grilled Salmon,2,42.11,12.82,T12
+2024-02-22,Caesar Salad,2,21.71,6.45,T7
+2024-03-09,Grilled Salmon,1,22.07,5.98,T11
+2024-03-25,Veggie Wrap,2,20.44,6.67,T3
+2024-07-29,Chocolate Cake,3,26.84,7.77,T15
+2024-02-21,Grilled Salmon,1,22.2,6.76,T7
+2024-06-10,Grilled Salmon,1,21.51,5.97,T9
+2024-11-03,Chocolate Cake,3,27.29,9.28,T12
+2024-01-14,Pasta Carbonara,1,16.03,5.06,T12
+2024-07-19,Pasta Carbonara,3,45.86,16.09,T4
+2024-09-10,Ribeye Steak,1,33.12,10.84,T2
+2024-09-27,Margherita Pizza,2,29.21,8.23,T14
+2024-10-18,Ribeye Steak,2,68.32,19.51,T8
+2024-02-07,Margherita Pizza,3,40.18,11.8,T1
+2024-01-31,Ribeye Steak,3,99.82,33.35,T13
+2024-07-31,Ribeye Steak,3,101.0,33.09,T9
+2024-11-11,Grilled Salmon,2,42.17,11.69,T15
+2024-04-14,Grilled Salmon,3,64.86,20.94,T13
+2024-11-28,Caesar Salad,2,22.44,7.53,T14
+2024-05-02,Margherita Pizza,1,13.42,4.15,T8
+2024-11-09,Chocolate Cake,1,8.83,2.97,T12
+2024-03-30,Caesar Salad,1,11.23,3.74,T3
+2024-09-11,Tomato Soup,3,24.04,8.27,T5
+2024-03-26,Tomato Soup,1,8.2,2.86,T12
+2024-03-01,Margherita Pizza,2,28.86,8.5,T2
+2024-05-14,Chocolate Cake,3,25.86,8.04,T6
+2024-01-29,Veggie Wrap,3,29.0,8.24,T13
+2024-02-22,Chocolate Cake,3,27.6,8.02,T9
+2024-01-02,Margherita Pizza,1,13.64,4.26,T7
+2024-03-17,Grilled Salmon,1,22.12,7.79,T12
+2024-12-01,Ribeye Steak,1,33.39,10.27,T12
+2024-06-12,Pasta Carbonara,1,16.11,4.52,T11
+2024-01-27,Grilled Salmon,1,22.67,8.12,T7
+2024-02-05,Veggie Wrap,2,20.55,6.12,T2
+2024-10-10,Veggie Wrap,1,9.87,2.92,T13
+2024-06-04,Chocolate Cake,1,8.97,2.9,T8
+2024-04-10,Chicken Curry,1,16.41,5.81,T1
+2024-04-29,Chicken Curry,2,34.46,11.45,T1
+2024-06-20,Margherita Pizza,3,41.48,13.96,T5
+2024-02-23,Cheeseburger,3,40.88,12.58,T1
+2024-03-13,Pasta Carbonara,1,15.27,4.44,T14
+2024-09-23,Ribeye Steak,3,106.03,33.0,T12
+2024-02-13,Chocolate Cake,1,9.0,2.95,T7
+2024-02-08,Chocolate Cake,3,25.82,8.51,T3
+2024-05-01,Pasta Carbonara,2,33.12,11.7,T7
+2024-12-24,Tomato Soup,2,15.92,4.63,T4
+2024-03-10,Chocolate Cake,1,8.69,2.47,T8
+2024-06-09,Ribeye Steak,1,34.12,12.17,T4
+2024-08-19,Pasta Carbonara,2,31.25,8.77,T3
+2024-12-17,Pasta Carbonara,3,48.95,13.39,T14
+2024-06-16,Grilled Salmon,1,22.46,8.02,T7
+2024-09-19,Margherita Pizza,3,41.16,14.15,T3
+2024-01-16,Ribeye Steak,2,68.38,21.85,T2
+2024-08-24,Caesar Salad,1,10.58,2.92,T13
+2024-04-23,Grilled Salmon,1,22.71,6.89,T11
+2024-11-26,Caesar Salad,3,33.28,11.73,T2
+2024-01-12,Caesar Salad,1,11.44,3.55,T3
+2024-02-17,Tomato Soup,1,7.63,2.38,T3
+2024-10-20,Ribeye Steak,3,100.93,27.52,T11
+2024-08-06,Grilled Salmon,2,42.74,12.26,T5
+2024-08-16,Grilled Salmon,1,22.25,7.24,T11
+2024-05-31,Veggie Wrap,2,20.77,6.5,T2
+2024-05-23,Ribeye Steak,1,33.73,11.06,T13
+2024-09-26,Cheeseburger,3,40.93,13.05,T1
+2024-07-14,Tomato Soup,2,16.07,5.04,T15
+2024-10-16,Chicken Curry,2,33.62,9.62,T6
+2024-11-01,Cheeseburger,1,13.51,4.59,T1
+2024-08-29,Chicken Curry,2,34.91,12.57,T3
+2024-02-21,Cheeseburger,3,37.99,12.08,T13
+2024-01-29,Cheeseburger,3,40.35,13.79,T6
+2024-03-29,Grilled Salmon,1,22.2,7.6,T12
+2024-07-02,Chocolate Cake,1,9.18,2.77,T10
+2024-10-15,Grilled Salmon,3,68.96,23.81,T13
+2024-09-09,Chicken Curry,2,32.9,9.0,T1
+2024-04-29,Chocolate Cake,1,8.57,2.68,T6
+2024-11-10,Cheeseburger,1,12.79,3.66,T13
+2024-06-14,Margherita Pizza,1,13.51,4.5,T3
+2024-02-26,Chicken Curry,2,35.57,10.8,T11
+2024-07-21,Chocolate Cake,1,8.85,2.65,T3
+2024-08-11,Veggie Wrap,3,29.45,9.83,T9
+2024-12-21,Chocolate Cake,2,17.5,5.65,T3
+2024-07-12,Pasta Carbonara,3,48.9,13.76,T12
+2024-01-01,Chocolate Cake,2,18.63,6.32,T10
+2024-01-17,Grilled Salmon,3,64.8,22.21,T10
+2024-04-23,Chocolate Cake,1,9.39,2.65,T12
+2024-02-09,Cheeseburger,2,27.25,7.77,T15
+2024-02-15,Tomato Soup,2,15.22,4.4,T12
+2024-02-04,Tomato Soup,2,16.46,5.51,T1
+2024-07-16,Veggie Wrap,3,29.76,8.48,T7
+2024-09-09,Ribeye Steak,2,68.31,19.07,T8
+2024-10-22,Cheeseburger,1,12.94,4.42,T1
+2024-05-30,Margherita Pizza,2,27.33,7.64,T6
+2024-03-28,Ribeye Steak,1,34.79,11.11,T15
+2024-02-17,Tomato Soup,3,25.16,8.82,T12
+2024-01-16,Ribeye Steak,3,98.58,34.51,T3
+2024-01-28,Caesar Salad,2,21.35,6.13,T12
+2024-10-10,Chicken Curry,2,34.55,10.25,T2
+2024-01-26,Ribeye Steak,3,102.51,32.21,T1
+2024-07-03,Margherita Pizza,2,26.85,9.24,T11
+2024-11-03,Veggie Wrap,1,9.6,2.77,T11
+2024-05-29,Caesar Salad,2,22.76,6.78,T7
+2024-08-29,Veggie Wrap,3,29.3,9.6,T7
+2024-04-04,Tomato Soup,2,15.79,4.9,T5
+2024-08-13,Veggie Wrap,2,19.45,5.72,T1
+2024-03-18,Caesar Salad,1,11.18,3.83,T7
+2024-10-28,Cheeseburger,3,37.29,11.37,T9
+2024-08-02,Chicken Curry,3,52.87,16.53,T15
+2024-04-30,Veggie Wrap,2,19.16,6.73,T12
+2024-01-18,Chicken Curry,3,53.04,18.14,T11
+2024-11-13,Grilled Salmon,1,22.99,7.14,T3
+2024-04-18,Cheeseburger,1,12.41,3.44,T11
+2024-08-10,Cheeseburger,3,37.63,12.18,T6
+2024-02-04,Caesar Salad,2,22.12,7.07,T14
+2024-05-21,Chicken Curry,2,35.42,9.6,T12
+2024-11-15,Chocolate Cake,3,27.76,7.78,T3
+2024-03-16,Chocolate Cake,3,27.22,9.71,T2
+2024-02-24,Chocolate Cake,1,9.26,3.22,T15
+2024-06-25,Ribeye Steak,2,67.2,21.08,T10
+2024-08-30,Margherita Pizza,1,13.69,3.87,T10
+2024-12-14,Ribeye Steak,1,33.65,11.75,T12
+2024-05-01,Margherita Pizza,3,41.9,12.33,T6
+2024-01-11,Tomato Soup,2,15.7,5.43,T14
+2024-12-22,Caesar Salad,1,10.6,3.79,T8
+2024-06-13,Pasta Carbonara,3,47.6,15.62,T4
+2024-08-14,Cheeseburger,2,26.63,9.01,T14
+2024-07-10,Margherita Pizza,3,43.22,11.92,T12
+2024-09-16,Ribeye Steak,1,34.95,11.09,T10
+2024-01-15,Grilled Salmon,1,22.83,6.58,T1
+2024-05-07,Margherita Pizza,2,26.74,8.09,T4
+2024-05-20,Tomato Soup,2,16.01,5.24,T2
+2024-12-14,Margherita Pizza,1,13.82,4.47,T3
+2024-08-30,Chocolate Cake,3,26.59,7.57,T15
+2024-05-12,Caesar Salad,2,20.96,5.75,T14
+2024-10-19,Cheeseburger,1,13.19,4.37,T5
+2024-11-29,Ribeye Steak,3,97.1,33.04,T13
+2024-12-15,Margherita Pizza,2,29.15,9.57,T10
+2024-01-05,Cheeseburger,2,26.28,9.33,T12
+2024-12-29,Pasta Carbonara,2,33.27,11.53,T8
+2024-05-09,Cheeseburger,2,25.49,8.08,T10
+2024-07-22,Chocolate Cake,1,8.56,3.08,T14
+2024-07-10,Chicken Curry,3,51.48,15.21,T11
+2024-02-25,Veggie Wrap,1,9.84,2.9,T6
+2024-05-21,Pasta Carbonara,3,49.01,17.17,T5
+2024-04-06,Grilled Salmon,3,67.75,23.78,T13
+2024-11-03,Ribeye Steak,3,100.16,28.3,T1
+2024-12-01,Veggie Wrap,2,19.52,6.01,T7
+2024-01-19,Chocolate Cake,3,28.34,9.73,T6
+2024-04-23,Chicken Curry,3,52.45,18.44,T11
+2024-07-02,Chicken Curry,2,35.17,12.16,T15
+2024-10-12,Grilled Salmon,2,42.23,11.89,T5
+2024-10-13,Grilled Salmon,3,68.64,22.58,T4
+2024-06-30,Cheeseburger,3,40.45,12.45,T15
+2024-06-18,Tomato Soup,2,16.14,5.03,T2
+2024-08-28,Margherita Pizza,3,42.35,15.03,T2
+2024-08-29,Cheeseburger,3,37.52,12.43,T9
+2024-06-01,Ribeye Steak,1,35.26,10.0,T4
+2024-06-24,Ribeye Steak,3,106.01,38.04,T3
+2024-06-10,Grilled Salmon,1,21.97,7.18,T3
+2024-06-09,Margherita Pizza,1,13.93,4.02,T13
+2024-03-27,Chocolate Cake,1,8.99,3.05,T2
+2024-03-07,Chocolate Cake,2,18.24,5.59,T8
+2024-07-15,Margherita Pizza,1,14.05,4.72,T1
+2024-06-13,Chicken Curry,1,16.18,4.37,T12
+2024-05-07,Cheeseburger,3,40.47,12.06,T2
+2024-07-15,Chicken Curry,3,50.01,13.8,T1
+2024-06-01,Pasta Carbonara,2,32.73,10.59,T6
+2024-08-10,Grilled Salmon,2,46.18,14.51,T13
+2024-04-06,Grilled Salmon,2,41.88,12.15,T3
+2024-04-18,Margherita Pizza,3,42.02,11.81,T12
+2024-11-29,Margherita Pizza,2,29.05,8.51,T9
+2024-11-15,Margherita Pizza,3,44.08,14.53,T11
+2024-01-11,Margherita Pizza,3,40.39,12.52,T2
+2024-10-07,Pasta Carbonara,2,32.65,9.42,T11
+2024-11-18,Margherita Pizza,2,27.78,7.75,T9
+2024-05-18,Chocolate Cake,3,27.54,8.47,T15
+2024-02-23,Chicken Curry,3,51.6,15.24,T13
+2024-02-24,Veggie Wrap,1,10.11,3.44,T14
+2024-09-24,Cheeseburger,2,26.53,7.87,T1
+2024-10-07,Veggie Wrap,1,10.19,3.19,T4
+2024-01-02,Margherita Pizza,3,40.27,11.27,T10
+2024-12-08,Veggie Wrap,1,10.45,3.55,T2
+2024-02-21,Pasta Carbonara,3,46.71,16.77,T5
+2024-05-15,Veggie Wrap,1,9.6,2.74,T1
+2024-05-28,Tomato Soup,3,23.55,7.92,T2
+2024-01-24,Margherita Pizza,1,14.23,4.06,T6
+2024-08-12,Chocolate Cake,2,18.68,5.2,T14
+2024-06-24,Grilled Salmon,1,21.78,7.77,T5
+2024-07-16,Veggie Wrap,2,20.3,6.94,T2
+2024-03-08,Margherita Pizza,1,13.45,4.73,T8
+2024-10-18,Veggie Wrap,1,10.11,3.44,T10
+2024-01-15,Grilled Salmon,2,45.85,12.85,T7
+2024-08-13,Margherita Pizza,1,13.67,4.08,T12
+2024-12-13,Chicken Curry,3,51.39,16.49,T11
+2024-06-22,Chicken Curry,3,51.96,16.92,T7
+2024-12-04,Cheeseburger,2,25.6,8.47,T7
+2024-03-17,Chicken Curry,3,48.73,15.98,T3
+2024-09-15,Veggie Wrap,2,20.74,5.74,T8
+2024-06-13,Cheeseburger,2,27.22,7.47,T4
+2024-10-08,Ribeye Steak,2,70.16,19.44,T8
+2024-10-20,Veggie Wrap,1,10.36,3.21,T2
+2024-09-11,Margherita Pizza,1,13.86,3.79,T9
+2024-01-01,Caesar Salad,3,34.53,11.3,T15
+2024-09-17,Chicken Curry,1,17.26,5.37,T6
+2024-07-05,Margherita Pizza,1,14.48,4.34,T13
+2024-11-13,Chocolate Cake,2,18.39,5.57,T8
+2024-02-28,Caesar Salad,3,32.08,9.65,T14
+2024-11-20,Pasta Carbonara,3,48.11,16.03,T1
+2024-03-25,Veggie Wrap,1,10.32,3.48,T7
+2024-02-24,Pasta Carbonara,3,46.54,13.07,T14
+2024-07-20,Cheeseburger,2,26.84,7.71,T6
+2024-02-25,Ribeye Steak,1,35.45,12.24,T10
+2024-03-04,Veggie Wrap,2,20.32,7.24,T3
+2024-09-12,Margherita Pizza,3,42.99,13.75,T7
+2024-10-26,Veggie Wrap,3,30.84,10.85,T12
+2024-10-23,Grilled Salmon,3,68.08,19.02,T11
+2024-11-03,Chocolate Cake,2,18.01,5.49,T10
+2024-12-20,Cheeseburger,2,25.73,7.74,T5
+2024-08-19,Grilled Salmon,1,21.81,7.26,T12
+2024-09-19,Pasta Carbonara,3,48.23,14.38,T12
+2024-10-10,Cheeseburger,1,12.62,4.22,T11
+2024-06-25,Grilled Salmon,3,66.99,23.87,T9
+2024-10-04,Tomato Soup,3,23.08,6.96,T8
+2024-10-25,Chocolate Cake,3,27.57,9.12,T15
+2024-09-30,Pasta Carbonara,2,32.99,10.46,T1
+2024-07-14,Grilled Salmon,1,22.37,6.44,T13
+2024-03-23,Pasta Carbonara,3,46.8,16.17,T12
+2024-05-31,Cheeseburger,3,37.18,12.76,T2
+2024-11-11,Chicken Curry,1,17.41,5.58,T4
+2024-09-18,Pasta Carbonara,3,48.79,17.24,T7
+2024-08-01,Tomato Soup,3,22.93,7.73,T4
+2024-11-13,Veggie Wrap,1,10.41,3.47,T11
+2024-07-07,Chocolate Cake,3,27.64,7.95,T12
+2024-04-09,Pasta Carbonara,2,30.97,10.26,T3
+2024-03-29,Chicken Curry,1,16.79,5.18,T9
+2024-05-15,Grilled Salmon,1,22.18,6.5,T6
+2024-08-26,Grilled Salmon,1,21.24,6.35,T1
+2024-11-16,Chocolate Cake,3,26.46,9.03,T9
+2024-07-02,Caesar Salad,3,32.4,9.39,T3
+2024-09-23,Caesar Salad,3,31.88,10.17,T7
+2024-02-17,Tomato Soup,1,8.31,2.74,T6
+2024-07-03,Pasta Carbonara,1,16.72,5.44,T8
+2024-10-14,Margherita Pizza,1,14.24,4.42,T15
+2024-11-24,Chocolate Cake,3,26.31,7.2,T15
+2024-06-13,Ribeye Steak,1,33.61,10.71,T5
+2024-01-13,Chicken Curry,2,34.05,10.75,T8
+2024-01-23,Pasta Carbonara,3,46.52,14.71,T2
+2024-03-26,Chicken Curry,3,48.49,13.38,T11
+2024-11-18,Cheeseburger,3,38.7,10.81,T9
+2024-12-25,Ribeye Steak,3,105.23,29.1,T11
+2024-03-19,Margherita Pizza,2,28.61,7.82,T2
+2024-01-28,Grilled Salmon,2,44.26,14.24,T4
+2024-05-12,Ribeye Steak,2,67.67,20.73,T6
+2024-01-09,Ribeye Steak,3,98.11,26.54,T12
+2024-11-12,Caesar Salad,3,33.28,11.08,T2
+2024-07-02,Chicken Curry,1,16.64,5.52,T10
+2024-02-14,Pasta Carbonara,2,31.62,10.88,T1
+2024-08-30,Grilled Salmon,3,64.15,21.63,T13
+2024-10-06,Pasta Carbonara,3,46.29,15.32,T15
+2024-11-27,Tomato Soup,1,8.04,2.57,T2
+2024-01-22,Margherita Pizza,3,42.41,13.5,T2
+2024-06-05,Cheeseburger,3,39.94,13.39,T4
+2024-07-30,Chicken Curry,1,16.42,4.76,T14
+2024-05-09,Cheeseburger,1,12.59,4.31,T14
+2024-01-28,Chicken Curry,2,34.49,9.54,T11
+2024-02-04,Pasta Carbonara,1,15.52,5.0,T6
+2024-07-01,Grilled Salmon,3,67.03,18.7,T10
+2024-02-05,Cheeseburger,2,25.96,7.78,T11
+2024-06-05,Chocolate Cake,1,9.06,2.74,T6
+2024-08-07,Grilled Salmon,1,21.59,7.36,T12
+2024-11-24,Ribeye Steak,2,70.31,19.83,T12
+2024-06-18,Veggie Wrap,2,19.89,6.76,T8
+2024-10-09,Caesar Salad,1,11.16,3.1,T5
+2024-03-12,Chicken Curry,1,16.6,5.81,T2
+2024-02-08,Margherita Pizza,3,42.55,14.6,T10
+2024-07-26,Chocolate Cake,1,9.37,3.0,T9
+2024-10-03,Veggie Wrap,3,30.83,9.34,T4
+2024-10-28,Pasta Carbonara,1,15.94,5.04,T7
+2024-07-05,Chicken Curry,1,17.28,5.98,T13
+2024-11-10,Grilled Salmon,3,63.63,18.09,T10
+2024-10-16,Grilled Salmon,3,67.53,23.94,T1
+2024-04-22,Veggie Wrap,1,9.56,2.9,T1
+2024-12-08,Cheeseburger,3,40.59,12.28,T8
+2024-08-20,Margherita Pizza,1,14.67,4.39,T12
+2024-09-23,Pasta Carbonara,3,46.86,14.95,T3
+2024-07-11,Ribeye Steak,2,68.6,24.07,T2
+2024-09-21,Pasta Carbonara,2,33.51,9.72,T7
+2024-06-29,Tomato Soup,2,16.47,5.76,T1
+2024-09-13,Grilled Salmon,2,42.53,11.78,T11
+2024-05-23,Cheeseburger,1,12.59,3.81,T12
+2024-03-01,Cheeseburger,2,26.81,8.98,T8
+2024-12-11,Veggie Wrap,2,19.42,5.53,T14
+2024-07-29,Margherita Pizza,1,13.36,4.3,T3
+2024-03-09,Chicken Curry,1,17.66,5.0,T3
+2024-05-12,Grilled Salmon,3,69.02,22.36,T10
+2024-11-22,Margherita Pizza,3,42.96,14.77,T2
+2024-04-20,Veggie Wrap,3,31.48,10.96,T3
+2024-04-22,Ribeye Steak,3,98.36,31.72,T13
+2024-04-03,Chocolate Cake,3,27.03,7.71,T11
+2024-06-24,Veggie Wrap,3,30.27,8.8,T7
+2024-03-08,Caesar Salad,1,10.67,3.71,T9
+2024-12-16,Ribeye Steak,1,34.36,9.83,T15
+2024-11-10,Chocolate Cake,1,9.34,2.97,T13
+2024-03-01,Caesar Salad,2,22.35,7.85,T9
+2024-01-01,Ribeye Steak,3,101.19,35.29,T12
+2024-09-28,Ribeye Steak,1,35.49,11.12,T13
+2024-07-14,Tomato Soup,3,24.73,8.7,T14
+2024-12-22,Chocolate Cake,1,8.93,2.62,T13
+2024-04-29,Caesar Salad,2,22.22,7.09,T5
+2024-04-06,Margherita Pizza,3,43.02,11.64,T9
+2024-03-01,Chicken Curry,1,16.79,4.84,T13
+2024-06-10,Ribeye Steak,2,65.32,20.14,T10
+2024-05-09,Pasta Carbonara,3,47.63,14.43,T5
+2024-12-14,Ribeye Steak,1,33.7,11.48,T8
+2024-04-01,Tomato Soup,3,24.13,7.07,T5
+2024-10-22,Tomato Soup,3,23.76,6.71,T14
+2024-12-03,Caesar Salad,3,32.11,10.93,T3
+2024-02-21,Cheeseburger,3,38.61,11.6,T9
+2024-11-10,Margherita Pizza,1,13.84,4.53,T13
+2024-02-16,Grilled Salmon,2,45.87,14.18,T2
+2024-05-14,Cheeseburger,2,24.91,6.81,T7
+2024-07-24,Chocolate Cake,3,27.06,9.04,T10
+2024-01-30,Grilled Salmon,3,65.96,17.87,T14
+2024-12-02,Chicken Curry,2,32.96,11.22,T9
+2024-09-21,Cheeseburger,3,37.71,10.3,T4
+2024-12-01,Margherita Pizza,1,13.42,3.96,T7
+2024-06-29,Ribeye Steak,2,68.59,21.72,T12
+2024-12-26,Caesar Salad,1,11.05,3.71,T9
+2024-10-25,Tomato Soup,2,16.74,4.94,T10
+2024-04-09,Veggie Wrap,2,20.15,5.91,T7
+2024-09-16,Caesar Salad,3,31.59,9.37,T2
+2024-09-19,Pasta Carbonara,3,49.5,15.93,T12
+2024-08-14,Ribeye Steak,3,101.83,29.72,T6
+2024-08-22,Veggie Wrap,3,31.09,9.74,T5
+2024-02-04,Ribeye Steak,3,104.94,30.42,T12
+2024-04-27,Tomato Soup,2,16.73,5.29,T1
+2024-12-24,Pasta Carbonara,1,15.66,4.79,T12
+2024-06-24,Caesar Salad,3,34.42,10.77,T6
+2024-04-21,Chocolate Cake,2,17.43,5.88,T15
+2024-04-07,Veggie Wrap,3,29.1,9.78,T14
+2024-05-15,Cheeseburger,1,12.61,3.69,T10
+2024-07-01,Grilled Salmon,1,21.16,5.86,T11
+2024-09-09,Chocolate Cake,1,9.24,2.95,T1
+2024-09-03,Tomato Soup,3,23.56,8.27,T15
+2024-10-21,Pasta Carbonara,2,30.99,10.5,T9
+2024-05-23,Ribeye Steak,1,34.85,9.81,T9
+2024-08-04,Veggie Wrap,3,28.6,8.62,T14
+2024-12-17,Grilled Salmon,2,46.1,15.34,T8
+2024-06-10,Margherita Pizza,1,14.24,4.33,T2
+2024-06-15,Tomato Soup,3,24.87,7.13,T5
+2024-05-01,Pasta Carbonara,2,33.47,10.07,T3
+2024-09-12,Ribeye Steak,1,33.72,11.39,T6
+2024-07-24,Pasta Carbonara,2,30.98,8.73,T10
+2024-12-17,Cheeseburger,1,13.29,4.55,T9
+2024-08-09,Ribeye Steak,1,32.8,11.69,T3
+2024-08-30,Margherita Pizza,1,13.89,3.92,T15
+2024-11-18,Chicken Curry,3,52.12,17.76,T5
+2024-05-08,Chicken Curry,3,48.69,13.58,T3
+2024-01-31,Cheeseburger,2,25.94,8.47,T8
+2024-06-20,Pasta Carbonara,2,31.55,10.1,T13
+2024-05-11,Tomato Soup,1,7.93,2.39,T11
+2024-11-06,Cheeseburger,3,39.3,12.91,T3
+2024-05-25,Tomato Soup,2,16.28,5.11,T12
+2024-08-16,Caesar Salad,2,22.25,6.94,T3
+2024-03-26,Tomato Soup,2,16.21,5.21,T14
+2024-02-06,Caesar Salad,1,10.83,3.23,T11
+2024-05-29,Pasta Carbonara,3,48.69,14.33,T8
+2024-07-04,Chocolate Cake,3,28.26,8.68,T3
+2024-01-12,Grilled Salmon,3,64.25,18.8,T12
+2024-12-24,Caesar Salad,1,10.63,2.97,T2
+2024-08-30,Chicken Curry,1,16.19,4.95,T13
+2024-02-12,Caesar Salad,2,22.26,6.18,T15
+2024-07-18,Pasta Carbonara,1,15.6,4.61,T11
+2024-03-05,Grilled Salmon,3,68.23,18.6,T11
+2024-07-01,Tomato Soup,2,15.95,5.56,T15
+2024-05-19,Chicken Curry,2,32.76,11.64,T9
+2024-03-31,Chocolate Cake,3,26.88,9.07,T15
+2024-10-15,Ribeye Steak,3,103.43,32.89,T15
+2024-06-26,Veggie Wrap,3,29.18,8.11,T5
+2024-07-06,Ribeye Steak,2,65.66,17.79,T9
+2024-03-10,Tomato Soup,2,15.95,4.32,T15
+2024-09-08,Veggie Wrap,2,19.02,5.87,T5
+2024-11-01,Cheeseburger,1,13.06,3.75,T15
+2024-10-14,Ribeye Steak,2,66.3,22.17,T11
+2024-07-18,Ribeye Steak,1,33.19,10.22,T4
+2024-09-21,Chocolate Cake,3,27.5,8.13,T12
+2024-09-29,Pasta Carbonara,2,31.0,8.56,T3
+2024-05-28,Caesar Salad,3,32.85,10.21,T12
+2024-11-14,Veggie Wrap,1,9.82,2.79,T9
+2024-01-12,Grilled Salmon,1,21.52,6.05,T8
+2024-01-05,Cheeseburger,1,12.55,3.95,T6
+2024-08-03,Pasta Carbonara,2,33.59,10.47,T13
+2024-01-17,Tomato Soup,1,8.27,2.94,T1
+2024-05-16,Ribeye Steak,1,34.15,9.78,T15
+2024-05-08,Ribeye Steak,1,32.71,11.09,T4
+2024-07-16,Veggie Wrap,1,10.24,2.8,T8
+2024-02-18,Chicken Curry,3,53.46,16.71,T11
+2024-06-08,Tomato Soup,1,8.1,2.22,T15
+2024-10-08,Chicken Curry,1,16.58,5.43,T4
+2024-07-03,Margherita Pizza,3,40.81,11.43,T11
+2024-08-10,Tomato Soup,1,7.73,2.28,T2
+2024-07-21,Cheeseburger,1,13.61,4.39,T12
+2024-08-31,Chocolate Cake,1,8.88,2.47,T3
+2024-09-12,Caesar Salad,3,33.39,11.81,T13
+2024-11-16,Margherita Pizza,1,13.8,3.92,T9
+2024-02-24,Grilled Salmon,2,42.82,15.34,T13
+2024-11-26,Tomato Soup,2,16.37,4.45,T7
+2024-07-02,Grilled Salmon,2,45.75,14.35,T8
+2024-10-13,Pasta Carbonara,3,48.95,14.05,T3
+2024-10-05,Tomato Soup,2,16.37,4.83,T14
+2024-11-02,Chicken Curry,1,16.27,4.62,T5
+2024-05-14,Chicken Curry,2,33.84,11.5,T9
+2024-07-13,Grilled Salmon,1,22.26,6.74,T10
+2024-05-02,Tomato Soup,3,22.95,8.19,T14
+2024-07-17,Cheeseburger,3,39.71,13.46,T3
+2024-11-09,Pasta Carbonara,2,31.71,9.48,T2
+2024-09-24,Caesar Salad,1,11.37,3.2,T14
+2024-01-17,Cheeseburger,1,12.98,3.62,T10
+2024-11-24,Ribeye Steak,3,101.9,33.24,T10
+2024-05-11,Margherita Pizza,2,27.22,9.11,T1
+2024-04-16,Veggie Wrap,1,9.97,3.27,T6
+2024-10-12,Ribeye Steak,2,70.0,19.27,T10
+2024-05-16,Chicken Curry,1,17.4,6.0,T2
+2024-04-20,Chicken Curry,1,16.32,4.75,T7
+2024-04-07,Cheeseburger,3,39.61,12.73,T3
+2024-10-12,Chicken Curry,2,34.84,11.81,T10
+2024-07-02,Veggie Wrap,3,30.5,10.66,T3
+2024-04-02,Chicken Curry,2,34.02,11.2,T9
+2024-11-03,Veggie Wrap,2,20.8,6.65,T6
+2024-07-09,Ribeye Steak,3,101.29,33.97,T10
+2024-05-03,Chocolate Cake,3,26.23,8.89,T15
+2024-05-10,Tomato Soup,2,15.92,4.87,T12
+2024-01-18,Pasta Carbonara,3,45.68,12.89,T15
+2024-06-03,Margherita Pizza,2,29.36,8.49,T6
+2024-01-12,Pasta Carbonara,3,48.05,15.44,T10
+2024-03-20,Caesar Salad,1,10.96,3.11,T5
+2024-07-06,Chocolate Cake,1,8.76,3.0,T2
+2024-10-19,Ribeye Steak,3,106.26,35.71,T12
+2024-06-15,Veggie Wrap,1,9.99,3.51,T12
+2024-10-22,Caesar Salad,3,33.47,9.15,T13
+2024-10-22,Ribeye Steak,1,34.95,12.34,T6
+2024-06-27,Ribeye Steak,2,70.93,19.92,T13
+2024-04-26,Chocolate Cake,1,9.12,2.98,T1
+2024-06-05,Chicken Curry,1,16.69,5.35,T6
+2024-09-14,Cheeseburger,1,12.42,4.17,T7
+2024-08-16,Chocolate Cake,3,27.01,7.83,T5
+2024-07-20,Grilled Salmon,1,21.64,6.77,T12
+2024-01-26,Chicken Curry,2,33.19,10.15,T7
+2024-12-23,Grilled Salmon,1,21.96,6.32,T7
+2024-11-29,Chocolate Cake,1,9.06,3.26,T9
+2024-05-06,Cheeseburger,1,12.7,3.92,T11
+2024-10-21,Caesar Salad,1,11.19,3.45,T6
+2024-04-07,Tomato Soup,2,16.15,4.4,T5
+2024-03-27,Tomato Soup,3,24.77,8.48,T10
+2024-03-15,Veggie Wrap,1,10.42,3.03,T11
+2024-07-10,Grilled Salmon,3,68.33,19.14,T1
+2024-05-04,Chocolate Cake,1,9.33,3.21,T1
+2024-06-24,Caesar Salad,2,21.89,5.96,T4
+2024-10-02,Cheeseburger,1,13.06,4.41,T9
+2024-09-04,Chocolate Cake,3,28.33,9.42,T11
+2024-01-10,Ribeye Steak,3,106.14,33.69,T5
+2024-03-28,Margherita Pizza,2,27.16,9.04,T5
+2024-01-28,Veggie Wrap,3,31.34,8.65,T11
+2024-05-18,Tomato Soup,1,7.62,2.65,T11
+2024-07-16,Cheeseburger,2,26.02,8.69,T15
+2024-06-10,Veggie Wrap,3,30.09,8.63,T9
+2024-08-22,Chicken Curry,3,48.56,14.19,T9
+2024-06-05,Tomato Soup,2,15.83,4.5,T6
+2024-12-16,Tomato Soup,2,16.2,4.72,T9
+2024-05-21,Margherita Pizza,3,40.98,12.49,T14
+2024-01-16,Chicken Curry,2,33.07,9.95,T7
+2024-12-02,Grilled Salmon,1,22.51,7.13,T11
+2024-11-09,Cheeseburger,2,25.32,7.18,T5
+2024-11-05,Tomato Soup,2,16.07,4.64,T3
+2024-10-24,Chicken Curry,3,52.53,18.26,T5
+2024-12-18,Chicken Curry,1,16.88,5.94,T13
+2024-03-15,Chocolate Cake,1,8.84,2.83,T12
+2024-03-01,Grilled Salmon,2,45.49,12.88,T1
+2024-06-12,Ribeye Steak,2,66.66,22.47,T14
+2024-11-22,Pasta Carbonara,1,16.45,4.6,T3
+2024-01-14,Chocolate Cake,3,26.37,8.47,T4
+2024-11-01,Cheeseburger,1,13.24,4.0,T12
+2024-09-01,Grilled Salmon,3,68.28,21.32,T11
+2024-07-10,Grilled Salmon,2,43.96,12.41,T4
+2024-04-25,Margherita Pizza,2,28.74,7.8,T5
+2024-07-30,Cheeseburger,3,39.67,11.44,T4
+2024-02-03,Grilled Salmon,2,45.62,14.33,T6
+2024-08-22,Cheeseburger,2,25.75,7.05,T12
+2024-07-13,Tomato Soup,2,16.18,5.45,T10
+2024-10-01,Chicken Curry,3,52.92,18.04,T9
+2024-02-25,Veggie Wrap,2,20.65,5.65,T4
+2024-09-22,Chicken Curry,2,35.65,9.75,T7
+2024-09-21,Margherita Pizza,1,13.71,4.19,T5
+2024-05-26,Veggie Wrap,1,9.92,3.23,T1
+2024-12-19,Chicken Curry,1,16.94,5.56,T2
+2024-09-13,Caesar Salad,1,11.31,4.01,T12
+2024-10-06,Grilled Salmon,2,43.62,13.55,T3
+2024-08-20,Chocolate Cake,3,28.07,9.81,T2
+2024-05-08,Tomato Soup,3,24.36,8.14,T3
+2024-03-04,Caesar Salad,1,11.23,3.67,T2
+2024-09-25,Ribeye Steak,3,104.97,33.18,T3
+2024-07-12,Chicken Curry,2,32.45,9.26,T6
+2024-10-16,Grilled Salmon,1,22.81,6.53,T12
+2024-01-27,Ribeye Steak,2,66.7,22.62,T8
+2024-05-27,Grilled Salmon,1,22.88,8.16,T1
+2024-11-14,Pasta Carbonara,1,15.93,5.53,T9
+2024-01-03,Chocolate Cake,2,17.53,5.66,T8
+2024-08-20,Ribeye Steak,2,65.14,21.11,T4
+2024-10-07,Pasta Carbonara,3,48.62,16.72,T4
+2024-01-26,Grilled Salmon,1,21.02,6.34,T3
+2024-01-17,Chocolate Cake,3,26.46,9.34,T1
+2024-02-25,Ribeye Steak,1,32.85,9.71,T11
+2024-12-20,Chocolate Cake,3,27.78,7.94,T8
+2024-10-23,Tomato Soup,1,7.67,2.28,T6
+2024-07-13,Caesar Salad,2,22.76,6.28,T8
+2024-03-09,Caesar Salad,3,34.19,10.24,T7
+2024-09-25,Cheeseburger,3,37.87,10.42,T10
+2024-11-18,Chicken Curry,1,16.97,5.63,T15
+2024-12-27,Pasta Carbonara,2,32.35,9.66,T9
+2024-10-21,Chocolate Cake,2,18.77,6.11,T8
+2024-09-23,Veggie Wrap,2,20.62,7.21,T4
+2024-12-28,Pasta Carbonara,1,15.2,4.14,T11
+2024-03-01,Cheeseburger,3,40.95,12.58,T6
+2024-06-28,Chicken Curry,3,49.53,16.23,T12
+2024-05-24,Pasta Carbonara,1,15.69,4.95,T6
+2024-01-04,Caesar Salad,3,32.45,9.92,T10
+2024-11-11,Margherita Pizza,1,13.57,4.68,T15
+2024-12-10,Veggie Wrap,2,20.59,6.76,T8
+2024-03-20,Veggie Wrap,3,31.19,9.72,T14
+2024-07-30,Margherita Pizza,3,41.16,13.8,T6
+2024-10-11,Chicken Curry,1,16.5,5.47,T13
+2024-06-30,Caesar Salad,1,10.76,2.94,T7
+2024-11-16,Chicken Curry,1,17.12,5.22,T10
+2024-02-29,Pasta Carbonara,3,49.72,16.6,T5
+2024-07-30,Caesar Salad,2,22.83,6.93,T14
+2024-06-03,Cheeseburger,3,38.23,10.71,T13
+2024-01-20,Cheeseburger,1,12.93,3.52,T8
+2024-09-13,Grilled Salmon,1,21.65,6.79,T14
+2024-09-25,Pasta Carbonara,2,30.86,10.75,T14
+2024-09-21,Grilled Salmon,1,22.49,7.0,T12
+2024-09-24,Caesar Salad,1,10.79,2.96,T14
+2024-10-31,Caesar Salad,2,21.93,6.01,T9
+2024-12-03,Pasta Carbonara,1,16.12,4.81,T15
+2024-04-17,Tomato Soup,1,7.75,2.29,T6
+2024-08-13,Caesar Salad,2,21.23,6.25,T1
+2024-11-14,Chicken Curry,3,48.97,15.61,T9
+2024-06-12,Pasta Carbonara,1,16.71,5.72,T10
+2024-05-05,Grilled Salmon,1,21.59,7.56,T9
+2024-08-15,Margherita Pizza,1,13.34,4.69,T1
+2024-02-24,Ribeye Steak,1,32.59,9.95,T12
+2024-11-01,Chocolate Cake,3,27.91,9.29,T10
+2024-07-01,Pasta Carbonara,2,33.02,11.03,T11
+2024-09-30,Caesar Salad,2,22.15,6.17,T13
+2024-12-23,Veggie Wrap,1,9.96,3.3,T12
+2024-08-26,Veggie Wrap,1,10.45,2.96,T15
+2024-11-11,Pasta Carbonara,2,31.65,10.54,T11
+2024-06-18,Tomato Soup,2,15.98,4.41,T2
+2024-06-28,Veggie Wrap,2,20.69,6.11,T6
+2024-11-05,Chocolate Cake,1,9.01,2.76,T12
+2024-02-24,Tomato Soup,3,24.36,8.31,T9
+2024-08-24,Ribeye Steak,3,101.12,32.95,T9
+2024-03-22,Veggie Wrap,2,19.13,5.52,T12
+2024-10-29,Ribeye Steak,2,68.46,20.59,T12
+2024-04-30,Grilled Salmon,3,67.12,22.59,T12
+2024-10-20,Veggie Wrap,1,10.09,3.14,T9
+2024-02-19,Veggie Wrap,1,9.81,3.01,T10
+2024-02-25,Chocolate Cake,2,17.69,5.8,T1
+2024-02-16,Cheeseburger,1,13.5,4.74,T11
+2024-01-01,Grilled Salmon,3,63.68,20.24,T7
+2024-11-11,Chocolate Cake,2,17.45,5.78,T6
+2024-06-02,Chocolate Cake,3,26.47,9.39,T7
+2024-06-25,Caesar Salad,3,31.38,11.26,T7
+2024-03-06,Pasta Carbonara,1,15.79,5.04,T1
+2024-01-01,Chicken Curry,2,32.67,9.65,T1
+2024-04-30,Ribeye Steak,3,102.92,33.58,T12
+2024-07-14,Ribeye Steak,2,67.56,19.53,T3
+2024-08-31,Grilled Salmon,1,22.12,7.65,T6
+2024-08-01,Grilled Salmon,2,46.19,15.26,T3
+2024-01-06,Caesar Salad,3,31.4,10.52,T8
+2024-12-02,Ribeye Steak,1,32.59,10.68,T7
+2024-08-21,Chocolate Cake,2,18.22,5.66,T7
+2024-10-09,Veggie Wrap,2,19.71,5.65,T10
+2024-01-04,Chocolate Cake,2,18.62,5.42,T9
+2024-05-17,Ribeye Steak,3,102.78,28.06,T1
+2024-10-17,Veggie Wrap,3,29.61,9.54,T12
+2024-02-10,Grilled Salmon,3,67.53,24.21,T13
+2024-05-23,Veggie Wrap,3,28.73,10.06,T2
+2024-05-05,Veggie Wrap,3,30.73,10.95,T2
+2024-12-16,Chicken Curry,3,50.04,13.75,T6
+2024-09-30,Margherita Pizza,2,27.87,9.8,T10
+2024-06-18,Ribeye Steak,2,71.13,24.32,T5
+2024-03-26,Margherita Pizza,3,43.78,14.77,T12
+2024-10-15,Pasta Carbonara,1,16.21,5.22,T10
+2024-01-27,Pasta Carbonara,3,48.6,14.38,T2
+2024-03-05,Chicken Curry,1,17.6,5.19,T3
+2024-11-11,Pasta Carbonara,2,33.15,8.99,T2
+2024-11-05,Grilled Salmon,3,67.58,22.26,T6
+2024-03-30,Pasta Carbonara,3,46.73,13.38,T9
+2024-01-17,Tomato Soup,1,8.37,2.71,T14
+2024-03-19,Veggie Wrap,2,20.54,5.99,T8
+2024-11-22,Grilled Salmon,1,22.17,7.67,T1
+2024-11-24,Pasta Carbonara,1,15.28,4.76,T8
+2024-06-03,Veggie Wrap,3,31.34,11.06,T4
+2024-07-13,Ribeye Steak,2,66.39,21.09,T7
+2024-01-07,Pasta Carbonara,2,31.62,9.44,T9
+2024-12-15,Margherita Pizza,1,14.58,4.77,T14
+2024-08-09,Chocolate Cake,3,27.97,8.4,T5
+2024-02-20,Pasta Carbonara,3,48.4,15.08,T11
+2024-05-03,Chocolate Cake,1,9.02,2.99,T3
+2024-06-09,Chicken Curry,1,17.29,5.96,T1
+2024-07-29,Caesar Salad,3,31.69,9.83,T4
+2024-05-25,Pasta Carbonara,1,15.25,4.97,T1
+2024-10-31,Cheeseburger,3,39.54,13.2,T2
+2024-02-14,Chocolate Cake,1,8.89,3.01,T11
+2024-10-16,Grilled Salmon,1,22.43,6.57,T8
+2024-12-04,Caesar Salad,3,32.85,11.81,T13
+2024-08-06,Tomato Soup,2,15.46,4.28,T13
+2024-02-01,Ribeye Steak,2,66.86,18.41,T14
+2024-05-15,Grilled Salmon,2,42.11,15.08,T4
+2024-11-08,Ribeye Steak,1,34.49,9.65,T9
+2024-08-08,Cheeseburger,3,39.56,13.93,T12
+2024-05-12,Caesar Salad,1,10.53,3.38,T5
+2024-08-16,Margherita Pizza,2,27.02,8.85,T15
+2024-01-20,Ribeye Steak,2,65.63,19.67,T7
+2024-10-21,Margherita Pizza,3,42.87,14.55,T8
+2024-08-11,Ribeye Steak,3,104.87,35.73,T9
+2024-04-25,Margherita Pizza,2,29.27,10.06,T8
+2024-03-03,Chocolate Cake,3,28.17,8.52,T11
+2024-06-04,Ribeye Steak,1,34.45,12.27,T2
+2024-07-06,Chicken Curry,2,32.57,10.14,T13
+2024-05-28,Cheeseburger,1,13.07,4.67,T11
+2024-04-07,Pasta Carbonara,3,47.47,13.27,T12
+2024-07-02,Veggie Wrap,1,10.39,3.21,T4
+2024-03-12,Margherita Pizza,1,13.34,4.8,T4
+2024-09-07,Ribeye Steak,1,35.0,11.48,T8
+2024-09-30,Veggie Wrap,1,9.54,2.62,T13
+2024-01-22,Ribeye Steak,1,33.02,10.86,T9
+2024-08-22,Chicken Curry,1,17.41,5.07,T2
+2024-01-19,Grilled Salmon,2,44.68,13.96,T15
+2024-11-12,Margherita Pizza,1,14.28,4.02,T3
+2024-11-19,Margherita Pizza,2,28.9,8.06,T10
+2024-03-28,Chocolate Cake,1,9.29,2.6,T8
+2024-10-31,Chocolate Cake,1,8.61,2.48,T6
+2024-12-13,Ribeye Steak,2,65.42,21.69,T9
+2024-03-11,Tomato Soup,1,8.21,2.65,T6
+2024-02-02,Caesar Salad,2,21.21,6.52,T12
+2024-07-08,Chicken Curry,1,16.9,5.97,T1
+2024-03-09,Caesar Salad,3,33.37,11.35,T1
+2024-09-06,Caesar Salad,1,10.46,3.7,T12
+2024-11-29,Chocolate Cake,2,17.85,6.12,T13
+2024-08-31,Grilled Salmon,1,21.21,6.24,T8
+2024-07-29,Cheeseburger,1,13.14,3.59,T3
+2024-09-12,Chocolate Cake,1,9.11,3.1,T6
+2024-08-02,Margherita Pizza,3,40.89,11.47,T9
+2024-02-18,Chocolate Cake,2,18.65,6.69,T9
+2024-04-22,Veggie Wrap,3,30.48,8.99,T4
+2024-02-27,Grilled Salmon,3,68.27,24.03,T8
+2024-03-31,Grilled Salmon,3,68.79,18.91,T6
+2024-05-25,Cheeseburger,2,25.35,8.25,T15
+2024-08-20,Margherita Pizza,1,14.34,5.07,T3
+2024-03-21,Margherita Pizza,2,28.04,7.75,T4
