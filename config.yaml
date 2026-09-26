@@ -1,8 +1,8 @@
 # Central configuration for Insight Desk
 
 llm:
-  model: "gemini-2.5-flash"
-  embedding_model: "text-embedding-004"
+  model: "gemini-3.7-flash"
+  embedding_model: "gemini-embedding-001"
   temperature: 0.3
 
 rag:

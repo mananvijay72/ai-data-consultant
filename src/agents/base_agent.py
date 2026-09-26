@@ -119,7 +119,7 @@ class BaseAgent:
                         result = {"error": str(e)}
 
                 contents.append(genai_types.Content(
-                    role="tool",
+                    role="assistant",
                     parts=[genai_types.Part.from_function_response(
                         name=tool_name, response={"result": result}
                     )],
